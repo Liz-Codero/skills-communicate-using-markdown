@@ -1,4 +1,7 @@
 # This is a test header
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world<br/><br/>
 Hey I'm changing here<br/>
 ```
 $ git init
